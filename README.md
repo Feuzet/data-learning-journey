@@ -1,6 +1,19 @@
-<<<<<<< HEAD
-# Mon Parcours Data 🚀
-Démarré le 30/11/2025
-=======
-# data-learning-journey
->>>>>>> 8ecf36f464339e1b6f8df726fe929513b80ce224
+# 🎯 Mon Parcours Data
+
+**Démarré :** 3 Décembre 2024  
+**Objectif :** Data Analyst/Engineer en 5 mois  
+
+## 📊 Jour 1
+- ✅ Setup Mac complet
+- ✅ Premier script Python
+- ✅ Variables, listes, dicts
+- ✅ Git/GitHub configuré
+
+## 🛠️ Stack
+- Python 3.11
+- Git/GitHub
+- VS Code + iTerm2
+- Notion (tracking)
+
+## 🚀 Prochaines Étapes
+- Jour 2 : Conditions et boucles
